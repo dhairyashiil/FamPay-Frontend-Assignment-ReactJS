@@ -16,7 +16,7 @@ https://fampay-app-dhairyashiil.netlify.app/
   <li>CSS</li>
 </ol>
 
-## Screenshots
+## Screenshot
 <img src="https://github.com/dhairyashiil/FamPay-Frontend-Assignment-ReactJS/blob/main/screenshots/fampay-app-dhairyashiil.png?raw=true" alt="screenshot" width="400"/>
 
 ## Video
