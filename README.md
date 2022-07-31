@@ -29,7 +29,7 @@ https://fampay-app-dhairyashiil.netlify.app/
     
 ## Additional Packages to Install 
 <ol>
-  <li>Also Please Install react-device-detect package for '<BrowserView>' and '<MobileView>' differentiation.</li>
+  <li>Also Please Install react-device-detect package for 'BrowserView' and 'MobileView' differentiation.</li>
   <li>`npm install react-device-detect --save`</li>
 </ol>
     
