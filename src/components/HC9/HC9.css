@@ -1,0 +1,20 @@
+.col1 {
+  max-width: 33.333%;
+  padding: 0.2rem;
+  margin-bottom: 1rem;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.HC9Card {
+  display: inline-block;
+  width: fit-content;
+  border: 1px solid black;
+  border-radius: 12px;
+}
+
+.bg-image {
+  border-radius: 12px;
+  width: 100%;
+  object-fit: contain;
+}

@@ -1,0 +1,61 @@
+.row5 {
+  display: flex;
+  min-width: 100%;
+  width: 100%;
+  height: fit-content;
+  -webkit-overflow-scrolling: touch;
+
+  margin-bottom: 0.5rem;
+  margin-top: 0.2rem;
+  justify-content: space-between;
+  white-space: normal;
+  white-space: nowrap;
+
+  align-items: stretch;
+  flex-direction: row;
+  flex-wrap: nowrap;
+
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* Because of I tried to use bootstrap at start , 
+All Div Classes with same name are act as a single class 
+even when all are present in different component 
+
+That's why the below class 'row' handling properties in AllCards.js file's Class
+*/
+.row {
+  display: flex;
+  min-width: 100%;
+  width: 100%;
+  height: fit-content;
+  -webkit-overflow-scrolling: touch;
+
+  margin-bottom: 0.5rem;
+  margin-top: 0.2rem;
+  justify-content: space-between;
+  white-space: normal;
+  white-space: nowrap;
+
+  align-items: stretch;
+  flex-direction: row;
+  flex-wrap: nowrap;
+
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.HC5card {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: fit-content;
+  margin: 0rem 0.2rem;
+}
+
+.hc5cardimg {
+  width: 100%;
+  border-radius: 12px;
+  object-fit: contain;
+}

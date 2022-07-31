@@ -1,0 +1,20 @@
+.row {
+  display: flex;
+  min-width: 100%;
+  width: 100%;
+  height: fit-content;
+  -webkit-overflow-scrolling: touch;
+
+  margin-bottom: 0.5rem;
+  margin-top: 0.2rem;
+  justify-content: space-between;
+  white-space: normal;
+  white-space: nowrap;
+
+  align-items: stretch;
+  flex-direction: row;
+  flex-wrap: nowrap;
+
+  overflow-x: auto;
+  overflow-y: hidden;
+}

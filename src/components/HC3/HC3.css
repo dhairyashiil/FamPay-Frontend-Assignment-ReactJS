@@ -1,0 +1,62 @@
+.HC3CardContainer {
+  /* margin: 0.5rem; */
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  overflow: hidden;
+  /* background-color: #fff; */
+  border-radius: 12px;
+}
+
+.HC3card {
+  display: flex;
+  width: 100%;
+  min-width: 100%;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 2rem;
+  height: 350px;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* color: #fff; */
+  border-radius: 12px;
+  margin: 0rem 0.2rem;
+}
+
+.logo {
+  height: 81.2px;
+  width: 91.73px;
+  object-fit: contain;
+}
+.heading-box {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.subtitle-box {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.heading {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  margin-bottom: 0;
+}
+.subtitle {
+  font-style: normal;
+  font-weight: normal;
+  white-space: pre-wrap;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.action-btn {
+  border-radius: 6px;
+  width: 128px;
+  border: none;
+  padding: 1rem 1rem;
+}
