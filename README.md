@@ -25,13 +25,13 @@ https://fampay-app-dhairyashiil.netlify.app/
   <li>`npx create-react-app@5.0.1 frontend_assignment`</li>
   <li>`cd frontend_assignment`</li>
   <li>`npm start`</li>
-<ol>
+</ol>
     
 ## Additional Packages to Install 
 <ol>
   <li>Also Please Install react-device-detect package for '<BrowserView>' and '<MobileView>' differentiation.</li>
   <li>`npm install react-device-detect --save`</li>
-<ol>
+</ol>
     
 ## API Used
 https://run.mocky.io/v3/4d8db890-5327-4c69-a3ef-b4f5f5225d17
