@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# FamPay | Frontend Assignment | Contextual Cards
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+- Develop a React App, that displays a list of `Contextual Cards`
+    - A `Contextual Card` is used to refer to a view that is rendered using JSON from an API
+    - These views are dynamic and their properties like images, color, texts, buttons (CTAs), etc. can be changed from the backend at any time.
 
 ### `npm start`
 
