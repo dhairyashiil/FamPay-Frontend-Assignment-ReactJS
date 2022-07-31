@@ -20,6 +20,7 @@ https://fampay-app-dhairyashiil.netlify.app/
 <img src="https://github.com/dhairyashiil/FamPay-Frontend-Assignment-ReactJS/blob/main/screenshots/fampay-app-dhairyashiil.png?raw=true" alt="screenshot" width="400"/>
 
 ## Video
+https://user-images.githubusercontent.com/93669429/182034016-33641c7c-b39f-4faa-a439-38825ac27e23.mp4
 
 ## Setup Instructions followed by me
 <ol>
