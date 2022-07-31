@@ -6,7 +6,7 @@
     - A `Contextual Card` is used to refer to a view that is rendered using JSON from an API
     - These views are dynamic and their properties like images, color, texts, buttons (CTAs), etc. can be changed from the backend at any time.
 
-## Preview
+## Deployed URL of App
 https://fampay-app-dhairyashiil.netlify.app/
 
 ## Technology Stack Used
